@@ -36,6 +36,7 @@ export function Dashboard() {
   useCopilotReadable({
     description: "Chat history and dashboard data including sales trends, product performance, and category distribution",
     value: {
+      chat,
       salesData,
       productData,
       categoryData,

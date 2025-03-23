@@ -204,7 +204,7 @@ export function Dashboard() {
       <Card className="col-span-1 md:col-span-1 lg:col-span-2">
         <CardHeader className="pb-1 pt-3">
           <CardTitle className="text-base font-medium">Démographie des Clients</CardTitle>
-          <CardDescription className="text-xs">Dépenses par groupe d'âge</CardDescription>
+          <CardDescription className="text-xs">Dépenses par groupe d&apos;âge</CardDescription>
         </CardHeader>
         <CardContent className="p-3">
           <div className="h-60">

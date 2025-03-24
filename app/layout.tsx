@@ -33,7 +33,9 @@ export default function RootLayout({
           showDevConsole={false}
         >
           {children}
+
         </CopilotKit>
+        <Analytics />
       </body>
     </html>
   );
